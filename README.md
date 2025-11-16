@@ -91,10 +91,9 @@ protection components such as:
 ## 📚 Detailed Documentation (PDF)
 
 A well-documented, extended explanation of this entire architecture concept — including  
-design rationale, flow explanations, and future extension options — is available as a **PDF**  
-inside the `/docs` folder (or will be added soon).
+design rationale, flow explanations, and future extension options — is available as a **PDF** .
 
-> 📄 **File:** `docs/Persona_Ads_Architecture_Documentation.pdf`
+> 📄 **File:** `Persona_based_Ad_personalisation_concept.pdf`
 
 ---
 
