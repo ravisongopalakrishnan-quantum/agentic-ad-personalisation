@@ -83,7 +83,63 @@ protection components such as:
 - Consent management  
 - Data retention and deletion workflows  
 - PII processing boundaries  
-- Privacy audit pipeline  
+- Privacy audit pipeline
+
+
+---
+
+## 📚 Detailed Documentation (PDF)
+
+A well-documented, extended explanation of this entire architecture concept — including  
+design rationale, flow explanations, and future extension options — is available as a **PDF**  
+inside the `/docs` folder (or will be added soon).
+
+> 📄 **File:** `docs/Persona_Ads_Architecture_Documentation.pdf`
+
+---
+
+## 👤 Architect & Credits
+
+This architecture concept and documentation were created by:
+
+### **Ravi Gopalakrishnan — Architect & Author**
+
+If you use, adapt, or reference this architecture, please credit:
+
+> **Architecture by Ravi Gopalakrishnan, licensed under CC BY 4.0.**
+
+Your attribution helps preserve authorship and supports future open design contributions.
+
+---
+
+## 📝 Attribution
+
+This architecture concept is licensed under:
+
+**Creative Commons Attribution 4.0 International (CC BY 4.0)**  
+You must give appropriate credit when using, sharing, or adapting this work.
+
+---
+
+## ⚠️ Disclaimer
+
+This architecture is provided *as a conceptual reference*.  
+The author(s) assume **no responsibility or liability** for any losses, damages,  
+or consequences arising from its use or implementation.  
+Use is entirely **at your own discretion and risk**.
+
+---
+
+## 📄 License
+
+See the `LICENSE` file for full license details (CC BY 4.0 + additional disclaimer).
+
+---
+
+## ⭐ Contributions
+
+Discussions, suggestions, and improvements are welcome through GitHub Issues and Pull Requests.
+
 
 
 
